@@ -1,5 +1,6 @@
 body {background-color: black;
-font-family: Verdana;}
+font-family: Verdana;
+text-align: center;}
 h1 {color: white;
 font-family: verdana;
 font-weight: normal;
@@ -10,3 +11,7 @@ font-size: 16px;
 text-decoration: underline;
 text-align: center;}
 video {align-content: center;}
+p {font-size: 21px;
+color: Gray;}
+.excursion {text-align: right;
+color: Gray;}
